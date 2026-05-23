@@ -10,9 +10,10 @@
 //     SUPER_ADMIN = "super_admin"
 // }
 
-let a:unknown;
-a = 10
-a="umayer"
+// let a:unknown;
+// a = 10
+// a="umayer"
 
-if(typeof a === "string")
-    a.toUpperCase()
+// if(typeof a === "string")
+//     a.toUpperCase()
+

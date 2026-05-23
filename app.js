@@ -10,9 +10,9 @@ Object.defineProperty(exports, "__esModule", { value: true });
 //     GUEST = "guest",
 //     SUPER_ADMIN = "super_admin"
 // }
-let a;
-a = 10;
-a = "umayer";
-if (typeof a === "string")
-    a.toUpperCase();
+// let a:unknown;
+// a = 10
+// a="umayer"
+// if(typeof a === "string")
+//     a.toUpperCase()
 //# sourceMappingURL=app.js.map
