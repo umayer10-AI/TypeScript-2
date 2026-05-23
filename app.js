@@ -18,7 +18,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 // function ab(): void{
 //     // return "10"
 // }
-let a;
-a = '10';
-a = 10;
+// let a:null | string;
+// a = '10'
+// a= 10
 //# sourceMappingURL=app.js.map

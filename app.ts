@@ -21,6 +21,6 @@
 //     // return "10"
 // }
 
-let a:null | string;
-a = '10'
-a= 10
+// let a:null | string;
+// a = '10'
+// a= 10
