@@ -3,5 +3,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
 let a = 12;
 // let arr = [1,2,3,{name: 'Umayer'}, {name: 22}
 // let arr: number[] = [1, 2, 3, 4];
-let arr = ["umayer", 21];
+// let arr: [string, number] = ["umayer",21]
+let arr = [21, "umayer"];
 //# sourceMappingURL=app.js.map
