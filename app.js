@@ -21,4 +21,10 @@ Object.defineProperty(exports, "__esModule", { value: true });
 // let a:null | string;
 // a = '10'
 // a= 10
+// function dd(): never {
+//     console.log("vah")
+//     // return 10
+// }
+// dd()
+// console.log("hello")
 //# sourceMappingURL=app.js.map
