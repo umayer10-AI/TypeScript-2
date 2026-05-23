@@ -10,5 +10,8 @@
 //     SUPER_ADMIN = "super_admin"
 // }
 
-let a:number;
+let a;
 a = 10
+a="umayer"
+
+

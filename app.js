@@ -12,4 +12,5 @@ Object.defineProperty(exports, "__esModule", { value: true });
 // }
 let a;
 a = 10;
+a = "umayer";
 //# sourceMappingURL=app.js.map
