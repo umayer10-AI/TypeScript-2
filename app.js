@@ -15,7 +15,10 @@ Object.defineProperty(exports, "__esModule", { value: true });
 // a="umayer"
 // if(typeof a === "string")
 //     a.toUpperCase()
-function ab() {
-    // return "10"
-}
+// function ab(): void{
+//     // return "10"
+// }
+let a;
+a = '10';
+a = 10;
 //# sourceMappingURL=app.js.map

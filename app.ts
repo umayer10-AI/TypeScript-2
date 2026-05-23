@@ -17,6 +17,10 @@
 // if(typeof a === "string")
 //     a.toUpperCase()
 
-function ab(): void{
-    // return "10"
-}
+// function ab(): void{
+//     // return "10"
+// }
+
+let a:null | string;
+a = '10'
+a= 10
