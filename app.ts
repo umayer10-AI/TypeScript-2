@@ -17,3 +17,6 @@
 // if(typeof a === "string")
 //     a.toUpperCase()
 
+function ab(): void{
+    // return "10"
+}
