@@ -13,4 +13,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
 let a;
 a = 10;
 a = "umayer";
+if (typeof a === "string")
+    a.toUpperCase();
 //# sourceMappingURL=app.js.map
